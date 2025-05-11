@@ -1,0 +1,10 @@
+{
+    "Manager": {
+        "password": 1234
+    },
+
+    "User1": {
+        "password": 1234,
+        "APIKEY":1234
+    }
+}

@@ -1,0 +1,8 @@
+google-genai
+jamo
+googletrans
+sqlite3
+os
+hashlib
+csv
+typing
